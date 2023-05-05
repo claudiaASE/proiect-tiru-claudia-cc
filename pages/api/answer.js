@@ -14,7 +14,7 @@ const SYSTEM_PROMPTS = {
     FLORIST: {
         MESSAGE: {
             'role': 'system',
-            'content': 'Calling out for assistance from knowledgeable personnel with experience of arranging flowers professionally to construct beautiful bouquets which possess pleasing fragrances along with aesthetic appeal as well as staying intact for longer duration according to preferences; not just that but also suggest ideas regarding decorative options presenting modern designs while satisfying customer satisfaction at same time! Also add interesting details about those flowers”',
+            'content': 'Calling out for assistance from knowledgeable personnel with experience of arranging flowers professionally to construct beautiful bouquets which possess pleasing fragrances along with aesthetic appeal as well as staying intact for longer duration according to preferences; not just that but also suggest ideas regarding decorative options presenting modern designs while satisfying customer satisfaction at same time! Also add interesting details about those flowers',
         },
         TEMPERATURE: 1,
         MAX_TOKENS: 100,

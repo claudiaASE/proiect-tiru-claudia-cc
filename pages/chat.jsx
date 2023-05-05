@@ -1,11 +1,14 @@
-import ChatComponent from '@/js/components/ChatComponent'
-import { Inter } from 'next/font/google'
+
+import React from 'react';
+import ChatComponent from '@/js/components/ChatComponent.jsx';
 
 
-const inter = Inter({ subsets: ['latin'] })
-
-export default function Home() {
+const ChatPage = () => {
     return (
-        <ChatComponent />
-    )
-}
+        <div>
+            <ChatComponent />
+        </div>
+    );
+};
+
+export default ChatPage;
