@@ -8,7 +8,7 @@ SIMPRE
 Pentru a putea urmari un scurt video in care sunt prezentate functionalitatile proiectului accesati: [https://youtu.be/wOuv9sJUXiQ]
 
 ## Link publicare
-Aplicatia  a fost deployata si se poate accesa urmand [https://proiect-tiru-claudia-cc.vercel.app/]
+Aplicatia  a fost deployata si se poate accesa urmand [https://proiect-tiru-claudia-cc.vercel.app]
 
 ## Link github
 Codul sursa poate fi accesat urmand [https://github.com/claudiaASE/proiect-tiru-claudia-cc]
@@ -208,13 +208,14 @@ Toate aceste detalii sunt prezente atat în .env-ul proiectului (nu este încăr
 ## Capturi ecran aplicație
 Cele trei ecrane ale aplicației dezvoltate sunt:
 ### Facts Flowers
-![Screenshot](/images/all.png)
+![alt text](https://github.com/claudiaASE/proiect-tiru-claudia-cc/blob/main/images/all.png?raw=true)
+
 Aici sunt  prezente datele despre toate florile adăugate și informațiile lor, tot aici se și pot șterge. 
 ### Insert Facts
-![Screenshot](/images/add.png)
+![alt text](https://github.com/claudiaASE/proiect-tiru-claudia-cc/blob/main/images/add.png?raw=true)
 Aici se pot adăuga informații noi. 
 ### Chat
-![Screenshot](/images/chat.png)
+![alt text](https://github.com/claudiaASE/proiect-tiru-claudia-cc/blob/main/images/chat.png?raw=true)
 Aici utilizatorul poate conversa cu ChatGPT. 
 
 ## Descriere tehnologii cloud folosite
@@ -243,8 +244,8 @@ OpenAI, compania din spatele ChatGPT, a dezvoltat și alte modele lingvistice, c
 
 ## Referințe
 
-MongoDB: [https://www.mongodb.com/]
+MongoDB: [https://www.mongodb.com]
 
-Vercel: [https://vercel.com/]
+Vercel: [https://vercel.com]
 
-ChatGPT: [https://openai.com/blog/chatting-with-ai/]
+ChatGPT: [https://openai.com/blog/chatting-with-ai]
