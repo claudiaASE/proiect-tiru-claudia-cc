@@ -8,7 +8,7 @@ SIMPRE
 Pentru a putea urmari un scurt video in care sunt prezentate functionalitatile proiectului accesati: [https://youtu.be/wOuv9sJUXiQ]
 
 ## Link publicare
-Aplicatia  a fost deployata si se poate accesa urmand [https://proiect-tiru-claudia-cx04arheg-claudiaase.vercel.app/]
+Aplicatia  a fost deployata si se poate accesa urmand [https://proiect-tiru-claudia-cc.vercel.app/]
 
 ## Link github
 Codul sursa poate fi accesat urmand [https://github.com/claudiaASE/proiect-tiru-claudia-cc]
